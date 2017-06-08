@@ -1,0 +1,9 @@
+c:\users\kev\documents\visual studio 2015\Projects\3D Kiosk Directory\3D Kiosk Directory\bin\Debug\3D Kiosk Directory.exe.config
+c:\users\kev\documents\visual studio 2015\Projects\3D Kiosk Directory\3D Kiosk Directory\bin\Debug\3D Kiosk Directory.exe
+c:\users\kev\documents\visual studio 2015\Projects\3D Kiosk Directory\3D Kiosk Directory\bin\Debug\3D Kiosk Directory.pdb
+c:\users\kev\documents\visual studio 2015\Projects\3D Kiosk Directory\3D Kiosk Directory\obj\Debug\3D Kiosk Directory.csprojResolveAssemblyReference.cache
+c:\users\kev\documents\visual studio 2015\Projects\3D Kiosk Directory\3D Kiosk Directory\obj\Debug\_3D_Kiosk_Directory.Form1.resources
+c:\users\kev\documents\visual studio 2015\Projects\3D Kiosk Directory\3D Kiosk Directory\obj\Debug\_3D_Kiosk_Directory.Properties.Resources.resources
+c:\users\kev\documents\visual studio 2015\Projects\3D Kiosk Directory\3D Kiosk Directory\obj\Debug\3D Kiosk Directory.csproj.GenerateResource.Cache
+c:\users\kev\documents\visual studio 2015\Projects\3D Kiosk Directory\3D Kiosk Directory\obj\Debug\3D Kiosk Directory.exe
+c:\users\kev\documents\visual studio 2015\Projects\3D Kiosk Directory\3D Kiosk Directory\obj\Debug\3D Kiosk Directory.pdb
